@@ -17,3 +17,9 @@ docker pull "nombre de la imagen"
 
 ###### 2.- Muestra todas las ramas
 ![1](Caps%20docker%202/2.1.PNG)
+
+##### 3.- Crear un contenedor demonio con la imagen php:7.4-apache
+![1](Caps%20docker%202/3.1.PNG)
+![1](Caps%20docker%202/3.2.PNG)
+
+
