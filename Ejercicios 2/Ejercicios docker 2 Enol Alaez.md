@@ -15,4 +15,5 @@ docker pull "nombre de la imagen"
 
 <br>
 
-###### 1.- Muestra todas las ramas
+###### 2.- Muestra todas las ramas
+![1](Caps%20docker%202/2.1.PNG)
