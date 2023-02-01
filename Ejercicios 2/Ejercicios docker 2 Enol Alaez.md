@@ -1,4 +1,4 @@
-# Ejercicios docker 2 Enol Alvarez
+# Ejercicios docker 2 Enol Aláez
 
 <br>
 
@@ -54,6 +54,12 @@ docker ps -s
 ```
 docker ps -s
 ```
+<br>
 
+###### 7.- Accede al fichero info.php desde un navegador web.
+![1](Caps%20docker%202/6.1.PNG)
+```
+docker ps -s
+```
 
 
